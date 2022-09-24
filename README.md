@@ -43,33 +43,4 @@ temperatura maior que a média e menor que a média.
 Verifique quais números existem nos dois arrays e quantas vezes se repetem no mesmo array.
 
 DESAFIO
-Criar um jogo da velha. A cada jogada o programa deverá imprimir em tela o tabuleiro. Exemplo de jogo:
-Iniciando:
- 1 2 3
-1 | |
- -----------
-2 | |
- -----------
-3 | |
-Informe a linha de X:
-1
-Informe a coluna de X:
-1
-Jogada 1:
- 1 2 3
-1 X | |
- -----------
-2 | |
- -----------
-3 | |
-Informe a linha de O:
-1
-Informe a coluna de O:
-2
-Jogada 2:
- 1 2 3
-1 X | O |
- -----------
-2 | |
- -----------
-3 | |
+Criar um jogo da velha. A cada jogada o programa deverá imprimir em tela o tabuleiro.
