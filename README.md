@@ -39,8 +39,8 @@ se existe ou não nas 10 pessoas informadas.
 14. Crie um programa que receba a média de temperatura dos 12 meses do ano. Após deverá ser
 impresso a menor temperatura, a maior temperatura, a temperaturia média do ano e os mesmos com
 temperatura maior que a média e menor que a média.
-15. Crie um programa que contenha dois arrays numéricos de tamanhos iguais e valores variados.
-Verifique quais números existem nos dois arrays e quantas vezes se repetem no mesmo array.
+
+ISSUE EM ABERTO COM EXERCICIO 15
 
 DESAFIO
 Criar um jogo da velha. A cada jogada o programa deverá imprimir em tela o tabuleiro.
